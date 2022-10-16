@@ -1,0 +1,2 @@
+# Simulation-of-Railway-Barriers-using-Arduino
+Between a railway train and a crossing for pedestrians or cars there are various barriers. In this project, we will create a system that simulates the operation of automatic barriers for railway trains. The arrival of the train will be sensed by a sensor which sends information to the Servo motor and based on that the gate will be opened and closed. We will design this system using: Arduino UNO, two hc-sr04 ultrasonic sensors to detect the arrival of the train., two servomotors to lower or raise barriers or obstacles.
